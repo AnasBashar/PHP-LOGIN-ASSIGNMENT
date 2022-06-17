@@ -1,5 +1,6 @@
 <div class="container">
-<h2>LAB ASSIGNMENT PHP REGISTER AND LOGIN</h2>	
+<h2>LAB ASSIGNMENT PHP REGISTER AND LOGIN</h2>
+<p><img src="anas1.jpg" alt=" ANAS BIN BASHARUDIN 2020859256"style="width:128px;height:128px;"> <br>	ANAS BIN BASHARUDIN 2020859256</p>	
 	<div class="row">
 		<div class="col-md-4 col-md-offset-4 well">
 			<form role="form" action="<?php echo $_SERVER['PHP_SELF']; ?>" method="post" name="signupform">
